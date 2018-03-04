@@ -432,6 +432,12 @@ h4 {
   width: 100vw;
 }
 
+#digitalgeelong {
+  background: url(../img/digital-strategy.jpg) top center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
 #govhack {
   background: url(../img/20150705_115631.jpg) center center / cover no-repeat;
   height: 100vh;
@@ -452,6 +458,12 @@ h4 {
 
 #govhack4 {
   background: url(../img/might-ducks.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#geelongfreewifi {
+  background: url(../img/free-wifi-geelong.jpg) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
 }
