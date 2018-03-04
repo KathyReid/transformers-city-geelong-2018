@@ -412,11 +412,11 @@ h4 {
 
 #blueangle {
   position: fixed;
-  top: -7000px;
-  left: -4000px;
+  top: 0;
+  left: 0;
   background: url(../img/blue-angle.svg) center center / cover no-repeat;
-  width: 3000px;
-  height: 4210px;
+  width: 8147px;
+  height: 16284px;
   z-index: 98;
 }
 
@@ -428,6 +428,18 @@ h4 {
 
 #opendataportal {
   background: url(../img/geelong-open-data-portal.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#govhack {
+  background: url(../img/20150705_115631.jpg) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#govhack2 {
+  background: url(../img/20150705_170224.jpg) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
 }
