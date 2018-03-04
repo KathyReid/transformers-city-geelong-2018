@@ -436,30 +436,35 @@ h4 {
   background: url(../img/digital-strategy.jpg) top center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 500;
 }
 
 #govhack {
   background: url(../img/20150705_115631.jpg) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 501;
 }
 
 #govhack2 {
   background: url(../img/20150705_170224.jpg) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 502;
 }
 
 #govhack3 {
   background: url(../img/geelong-2065.png) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 503;
 }
 
 #govhack4 {
   background: url(../img/might-ducks.png) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 504;
 }
 
 #geelongfreewifi {
@@ -470,6 +475,12 @@ h4 {
 
 #geelongadvertiser {
   background: url(../img/geelong-advertiser-parking-meters.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#unesco {
+  background: url(../img/unesco-creative-city-of-design.png) center center / 1200px 1000px  no-repeat;
   height: 100vh;
   width: 100vw;
 }

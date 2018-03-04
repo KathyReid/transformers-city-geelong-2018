@@ -77,4 +77,43 @@ We also learned some lessons from GovHack.
 
 * As a regional city, it's really hard to compete with the larger event in Melbourne, that regularly draws over 200 hackers. To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
 
-* As a weekend hackathon, the outputs from GovHack are prototypes - very robust prototypes - but not able to be deployed immediately. 
+SLIDE: Geelong free WiFi
+https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongfreewifi
+
+* As a weekend hackathon, the outputs from GovHack are prototypes - very robust prototypes - but not able to be deployed immediately. They need a lot of work and iteration to be production ready. In one case, we took a project from GovHack 2015 - Geelong Free WiFi, by Daniel McCarthy and Paz, and then matured it into a production ready product.
+
+SLIDE: Geelong advertiser
+http://localhost/transformers-city-geelong-2018/#/geelongadvertiser
+
+* Another key issue that we faced with the growing release of open data was the way it could be used both positively - in the case of GovHack - or to paint the city in a more negative light.
+
+@TODO - to discuss - is this wording OK?
+
+
+
+# Level 3 - Track the data
+
+SLIDE: Level 3 - Track the data
+https://kathyreid.github.io/transformers-city-geelong-2018/#/level3
+
+After two years of GovHack, one of the lessons we learned was the difficulty that open data consumers had in finding Geelong-related open data. So, we decided to surface that information through a Geelong open data portal, which we can then track with additional metrics, which are used for continuous improvement.
+
+SLIDE: Geelong open data portal
+https://kathyreid.github.io/transformers-city-geelong-2018/#/opendataportal
+
+As the maturity of Geelong's open data efforts, and digital Geelong strategy, continued, the broader landscape itself was being examined closely as part of the region's efforts to develop a vision and strategy to shape the city for the next 30 years. After consultation with over 16,000 community members, the result was the 'Clever and Creative' vision.
+
+SLIDE: Clever and Creative
+https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreative
+
+SLIDE: Clever and Creative quote
+https://kathyreid.github.io/transformers-city-geelong-2018/#/by2047
+
+And of course, open data, and smart cities have a huge role to play here as well.
+
+@TODO We probably need some more information here tying open data and smart cities initiatives to the Clever and Creative initiative.
+
+SLIDE: UNESCO Creative City of Design
+https://kathyreid.github.io/transformers-city-geelong-2018/#/unesco
+
+In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support our recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation - which will help to strengthen Geelong's position on the international stage.
