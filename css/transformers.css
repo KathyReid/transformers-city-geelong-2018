@@ -444,6 +444,24 @@ h4 {
   width: 100vw;
 }
 
+#govhack3 {
+  background: url(../img/geelong-2065.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#govhack4 {
+  background: url(../img/might-ducks.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
+#geelongadvertiser {
+  background: url(../img/geelong-advertiser-parking-meters.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
+
 #geemap {
   background: url(../img/GEEmap-ecosystem-map3-opacity50.png) center center / cover no-repeat;
   height: 100vh;
