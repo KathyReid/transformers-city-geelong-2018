@@ -289,7 +289,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.05;
+    opacity: 0.03;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -424,12 +424,14 @@ h4 {
   background: url(../img/clever-creative-future.png) center left / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 505;
 }
 
 #opendataportal {
   background: url(../img/geelong-open-data-portal.png) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 506;
 }
 
 #digitalgeelong {
@@ -471,12 +473,14 @@ h4 {
   background: url(../img/free-wifi-geelong.jpg) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 507;
 }
 
 #geelongadvertiser {
   background: url(../img/geelong-advertiser-parking-meters.png) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
+  z-index: 508;
 }
 
 #unesco {
