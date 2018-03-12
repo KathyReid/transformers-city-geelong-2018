@@ -113,25 +113,36 @@ After two years of GovHack, one of the lessons we learned was the difficulty tha
 SLIDE: Geelong open data portal
 https://kathyreid.github.io/transformers-city-geelong-2018/#/opendataportal
 
-Those metrics showed some very interesting trends.
-
-
+Those metrics showed some very interesting trends indeed.
 
 SLIDE: Geelong open data portal metrics
+https://kathyreid.github.io/transformers-city-geelong-2018/#/opendatastats
 
-As the maturity of Geelong's open data efforts, and digital Geelong strategy, continued, the broader landscape itself was being examined closely as part of the region's efforts to develop a vision and strategy to shape the city for the next 30 years. After consultation with over 16,000 community members, the result was the 'Clever and Creative' vision.
+You can see here that the most downloaded data set is the Wages and Salaries dataset for the City of Greater Geelong - with urban planning-based datasets like flood extent or building applications a bit further down the list. The learning here is that the community is very interested in openness from Council on its internal operations - and interested in very public measures of accountability such as this.
+
+SLIDE: GEEmap
+https://kathyreid.github.io/transformers-city-geelong-2018/#/geemap
+
+We're also using open data to help connect different services in the city, and a key example of this is the GEEmap platform - which visualizes 
 
 SLIDE: Clever and Creative
 https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreative
+
+As the maturity of Geelong's open data efforts, and digital Geelong strategy, continued, the broader landscape itself was being examined closely as part of the region's efforts to develop a vision and strategy to shape the city for the next 30 years. After consultation with over 16,000 community members, the result was the 'Clever and Creative' vision.
 
 SLIDE: Clever and Creative quote
 https://kathyreid.github.io/transformers-city-geelong-2018/#/by2047
 
 And of course, open data, and smart cities have a huge role to play here as well.
 
-@TODO We probably need some more information here tying open data and smart cities initiatives to the Clever and Creative initiative.
-
 SLIDE: UNESCO Creative City of Design
 https://kathyreid.github.io/transformers-city-geelong-2018/#/unesco
 
 In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support our recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation - which will help to strengthen Geelong's position on the international stage.
+
+
+
+# Level 4 - The knack of data
+
+SLIDE: Level 4 - The knack of data
+https://kathyreid.github.io/transformers-city-geelong-2018/#/level3
