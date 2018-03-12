@@ -389,6 +389,12 @@ h4 {
   font-size: 15em;
 }
 
+.right {
+  text-align: right;
+  margin: 20% 20% 0 0;
+  color: rgba(0, 51, 97, 1);
+}
+
 .bulletedList {
   list-style-type: disc;
   list-style-position: inside;
@@ -527,6 +533,32 @@ h4 {
   padding-top: 10%;
   margin: 0 20% 0 20%;
 }
+
+#mavhack  {
+  background: url(../img/mavhack.jpg) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  z-index: 509;
+}
+
+#bollards  {
+  background: url(../img/smart-bollards.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  z-index: 510;
+}
+
+#cityasdata  {
+  background: url(../img/library-heritage-edge-detection.png) center center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  z-index: 520;
+}
+
+
 
 #overview { display: none }
 

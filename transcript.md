@@ -98,7 +98,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongadvertiser
 * Another key issue that we faced with the growing release of open data was the way it could be used both positively - in the case of GovHack - or to paint the city in a more negative light. Organisations who want to release open data need to have a certain risk appetite - as City of Greater Geelong did - you need to be prepared to say "yes, some people will take this and use it negatively, but the trade-off is much broader and greater positive outcomes".
 
 SLIDE: You need a risk appetite
-
+https://kathyreid.github.io/transformers-city-geelong-2018/#/learning3
 
 
 
@@ -123,7 +123,7 @@ You can see here that the most downloaded data set is the Wages and Salaries dat
 SLIDE: GEEmap
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geemap
 
-We're also using open data to help connect different services in the city, and a key example of this is the GEEmap platform - which visualizes 
+We're also using open data to help connect different services in the city, and a key example of this is the GEEmap platform - which interactively visualises services available to entrepreneurs in the region.
 
 SLIDE: Clever and Creative
 https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreative
@@ -138,11 +138,45 @@ And of course, open data, and smart cities have a huge role to play here as well
 SLIDE: UNESCO Creative City of Design
 https://kathyreid.github.io/transformers-city-geelong-2018/#/unesco
 
-In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support our recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation - which will help to strengthen Geelong's position on the international stage.
+In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support our recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation.
+
+The mission of the UNESCO Creative Cities network is to ensure creativity and cultural industries are at the heart of urban development - aligning perfectly with Geelong's mission to be the Clever and Creative city.
 
 
 
 # Level 4 - The knack of data
 
 SLIDE: Level 4 - The knack of data
-https://kathyreid.github.io/transformers-city-geelong-2018/#/level3
+https://kathyreid.github.io/transformers-city-geelong-2018/#/level4
+
+Using the learnings gleaned from GovHack, the City then participated in MAVHack in 2017, where the format was conducive to development over a longer timeframe.
+
+@TODO - Matt can you please add in something about MAVhack please? Some wording around it and why it sits at his maturity level.
+
+SLIDE: Smart bollards
+https://kathyreid.github.io/transformers-city-geelong-2018/#/bollards
+
+Also showing an increase in maturity, the City has recently taken another step beyond simply _capturing_ open data, to using **sensors** in SMART BOLLARDS to _generate_ open data, which is then stored in the Geelong Open Data Portal. In this case, the sensors are designed for smart parking - over time it's anticipated that different sensors will be used for other purposes such as smart lighting.
+
+This is a great example of how the City is using digital infrastructure not just to deliver services more quickly, or more efficiently, but actually deliver **differentiated** services - services that align with the expectations of clever, creative, digitally connected citizens.
+
+
+
+# Level 5 - Data backbone
+
+SLIDE: Level 5 - data backbone
+https://kathyreid.github.io/transformers-city-geelong-2018/#/level5
+
+We're not _quite_ at this level, but we do have some thoughts on what this level entails.
+
+Just as our city now has a Green Spine, connecting east and west through a biodiverse corridor, our Smart City will be interconnected, with data providing the backbone, the structure, which is used to inform urban planning and civic decision-making - linking the creation of open data _by_ actors in the city to the city's continual _redevelopment_ in a continual data lifecycle.
+
+SLIDE: Brought to life by data
+https://kathyreid.github.io/transformers-city-geelong-2018/#/cityasdata
+
+Of course this data will be dependent on networks to carry it - like nerves carrying messages between buildings, between vehicles, between infrastructure and between people.
+
+The City itself will become itself a living being, brought to life by data.
+
+SLIDE: Thank you
+https://kathyreid.github.io/transformers-city-geelong-2018/#/thankyou
