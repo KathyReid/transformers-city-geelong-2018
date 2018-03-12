@@ -35,18 +35,20 @@ The key questions the city had to tackle at this stage of maturity were things l
 
 * what data is available?
 * what can we collect?
+* what are the privacy considerations?
 * what format do we store it in.
 
 SLIDE: Digital Geelong strategy
 https://kathyreid.github.io/transformers-city-geelong-2018/#/digitalgeelong
 
-These were codified in mid-2015 into the Digital Geelong strategy, which covered a broad range of digital infrastructure topics.
+These were codified in mid-2015 into the Digital Geelong strategy, which covered a broad range of digital infrastructure topics. The strategy also covered how open data needed to address privacy considerations - ensuring that individuals weren't able to be identified using aggregate data.
 
 SLIDE: Choosing data.gov.au as an open data platform
 
-One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata.
+One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata. They key drivers for this decision were
 
-@TODO - Matt were there some key drivers from CoGG that led to the decision to adopt data.gov.au. I'm guessing it was the open source nature of CKAN vs Socrata being more expensive
+* CKAN was open source - and more readily integrated and adapted
+* Standardisation - all the Councils collect data - we do it differently and we should do it in the same way - including sharing meta data and formats.
 
 
 
@@ -55,13 +57,13 @@ One of the key decisions at this stage was the adoption of the data.gov.au platf
 SLIDE: Level 2 - Hack the data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level2
 
-The next step in open data maturity came with our involvement in GovHack in 2015, which saw the release of several new data sets. GovHack's first year was a great success, seeing over 40 hackers, data mentors and observers come together to deliver some incredible projects, including:
-
 SLIDE: GovHack photo 1
 https://kathyreid.github.io/transformers-city-geelong-2018/#/govhack
 
 SLIDE: GovHack photo 2
 https://kathyreid.github.io/transformers-city-geelong-2018/#/govhack2
+
+The next step in open data maturity came with our involvement in GovHack in 2015, which saw the release of several new data sets. GovHack's first year was a great success, seeing over 40 hackers, data mentors and observers come together to deliver some incredible projects, including:
 
 SLIDE: Geelong 2065
 https://kathyreid.github.io/transformers-city-geelong-2018/#/govhack3
@@ -75,6 +77,9 @@ This project - Mighty Ducks - connected GIS data with the Atlas of Living Austra
 
 We also learned some lessons from GovHack.
 
+SLIDE: Hard to compete as a regional city
+https://kathyreid.github.io/transformers-city-geelong-2018/#/transformers-city-geelong-2018/#/learning1
+
 * As a regional city, it's really hard to compete with the larger event in Melbourne, that regularly draws over 200 hackers. To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
 
 SLIDE: Geelong free WiFi
@@ -82,12 +87,19 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongfreewifi
 
 * As a weekend hackathon, the outputs from GovHack are prototypes - very robust prototypes - but not able to be deployed immediately. They need a lot of work and iteration to be production ready. In one case, we took a project from GovHack 2015 - Geelong Free WiFi, by Daniel McCarthy and Paz, and then matured it into a production ready product.
 
+SLIDE: Mature products into prototypes
+https://kathyreid.github.io/transformers-city-geelong-2018/#/learning2
+
+So that was a key learning - you need a pipeline or broader innovation program that provides a mechanism for prototypes to be matured into production.
+
 SLIDE: Geelong advertiser
-http://localhost/transformers-city-geelong-2018/#/geelongadvertiser
+https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongadvertiser
 
-* Another key issue that we faced with the growing release of open data was the way it could be used both positively - in the case of GovHack - or to paint the city in a more negative light.
+* Another key issue that we faced with the growing release of open data was the way it could be used both positively - in the case of GovHack - or to paint the city in a more negative light. Organisations who want to release open data need to have a certain risk appetite - as City of Greater Geelong did - you need to be prepared to say "yes, some people will take this and use it negatively, but the trade-off is much broader and greater positive outcomes".
 
-@TODO - to discuss - is this wording OK?
+SLIDE: You need a risk appetite
+
+
 
 
 
@@ -100,6 +112,12 @@ After two years of GovHack, one of the lessons we learned was the difficulty tha
 
 SLIDE: Geelong open data portal
 https://kathyreid.github.io/transformers-city-geelong-2018/#/opendataportal
+
+Those metrics showed some very interesting trends.
+
+
+
+SLIDE: Geelong open data portal metrics
 
 As the maturity of Geelong's open data efforts, and digital Geelong strategy, continued, the broader landscape itself was being examined closely as part of the region's efforts to develop a vision and strategy to shape the city for the next 30 years. After consultation with over 16,000 community members, the result was the 'Clever and Creative' vision.
 

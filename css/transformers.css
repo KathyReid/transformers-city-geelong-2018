@@ -406,6 +406,16 @@ h4 {
   z-index: 99;
 }
 
+#backgroundlogo {
+  position: absolute;;
+  top: 10000px;
+  left: 10000px;
+  background: url(../img/city-greater-geelong-logo-reverse.png) center center / cover no-repeat;
+  width: 700px;
+  height: 180px;
+  z-index: 99;
+}
+
 #intro {
   z-index: 10;
 }
@@ -501,7 +511,6 @@ h4 {
   margin: 0 20% 0 20%;
 }
 
-*/
 #overview { display: none }
 
 /*
