@@ -5,16 +5,19 @@
 SLIDE: Introduction
 https://kathyreid.github.io/transformers-city-geelong-2018/#/intro
 
+Matt
 Welcome to Geelong - we think it's the best city in Australia, but, we _might_ be a little biased ;-)
 
 I'm MATT _Matt to put introduction in here_
 
+Kathy
 And I'm KATHY REID - I'm a technical specialist and was the site lead for GovHack Geelong in 2015 and 2016 - and just to be clear, I'm NOT a City employee - which means I can say things that Matt can't *grin*.
 
 
 
 ## The Geelong Method - maturity model
 
+Kathy
 SLIDE: Capability Maturity Model
 https://kathyreid.github.io/transformers-city-geelong-2018/#/capabilitymaturity
 
@@ -26,6 +29,7 @@ We'd love to hear your questions and comments, however please do wait until the 
 
 ## Level 1 - Lack of data
 
+Matt
 SLIDE: Level 1 - Lack of data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level1
 
@@ -43,6 +47,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/digitalgeelong
 
 These were codified in mid-2015 into the Digital Geelong strategy, which covered a broad range of digital infrastructure topics. The strategy also covered how open data needed to address privacy considerations - ensuring that individuals weren't able to be identified using aggregate data.
 
+Kathy
 SLIDE: Choosing data.gov.au as an open data platform
 
 One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata. They key drivers for this decision were
@@ -54,6 +59,7 @@ One of the key decisions at this stage was the adoption of the data.gov.au platf
 
 # Level 2 - Hack the data
 
+Kathy
 SLIDE: Level 2 - Hack the data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level2
 
@@ -82,6 +88,8 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/transformers-city-g
 
 * As a regional city, it's really hard to compete with the larger event in Melbourne, that regularly draws over 200 hackers. To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
 
+
+Matt 
 SLIDE: Geelong free WiFi
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongfreewifi
 
@@ -92,6 +100,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/learning2
 
 So that was a key learning - you need a pipeline or broader innovation program that provides a mechanism for prototypes to be matured into production.
 
+Kathy
 SLIDE: Geelong advertiser
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongadvertiser
 
@@ -104,6 +113,8 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/learning3
 
 
 # Level 3 - Track the data
+
+Matt
 
 SLIDE: Level 3 - Track the data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level3
@@ -120,11 +131,14 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/opendatastats
 
 You can see here that the most downloaded data set is the Wages and Salaries dataset for the City of Greater Geelong - with urban planning-based datasets like flood extent or building applications a bit further down the list. The learning here is that the community is very interested in openness from Council on its internal operations - and interested in very public measures of accountability such as this.
 
+Kathy
+
 SLIDE: GEEmap
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geemap
 
 We're also using open data to help connect different services in the city, and a key example of this is the GEEmap platform - which interactively visualises services available to entrepreneurs in the region.
 
+Matt
 SLIDE: Clever and Creative
 https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreative
 
@@ -135,6 +149,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/by2047
 
 And of course, open data, and smart cities have a huge role to play here as well.
 
+Kathy
 SLIDE: UNESCO Creative City of Design
 https://kathyreid.github.io/transformers-city-geelong-2018/#/unesco
 
@@ -145,6 +160,7 @@ The mission of the UNESCO Creative Cities network is to ensure creativity and cu
 
 
 # Level 4 - The knack of data
+Matt
 
 SLIDE: Level 4 - The knack of data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level4
@@ -164,6 +180,7 @@ This is a great example of how the City is using digital infrastructure not just
 
 # Level 5 - Data backbone
 
+Kathy
 SLIDE: Level 5 - data backbone
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level5
 
@@ -177,6 +194,8 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/cityasdata
 Of course this data will be dependent on networks to carry it - like nerves carrying messages between buildings, between vehicles, between infrastructure and between people.
 
 The City itself will become itself a living being, brought to life by data.
+
+Last point - Matt to talk about future of data smart cities at cogg etc??? 
 
 SLIDE: Thank you
 https://kathyreid.github.io/transformers-city-geelong-2018/#/thankyou
