@@ -391,8 +391,18 @@ h4 {
 
 .right {
   text-align: right;
-  margin: 20% 20% 0 0;
+  margin: 15% 20% 0 0;
   color: rgba(0, 51, 97, 1);
+}
+
+.bollards {
+  float: right;
+  margin: 2% 20% 0 0;
+  border: 1px solid black;
+}
+
+.stakeholders {
+  margin: 5%;
 }
 
 .bulletedList {
@@ -450,6 +460,13 @@ h4 {
   height: 100vh;
   width: 100vw;
   z-index: 505;
+}
+
+#clevercreativevoting {
+  background: url(../img/clever-creative-voting.png) top center / cover no-repeat;
+  height: 100vh;
+  width: 100vw;
+  z-index: 410;
 }
 
 #opendataportal {
@@ -516,7 +533,7 @@ h4 {
 }
 
 #unesco {
-  background: url(../img/unesco-creative-city-of-design.png) center center / 1200px 1000px  no-repeat;
+  background: url(../img/unesco-creative-cities-network.png) center center / cover no-repeat;
   height: 100vh;
   width: 100vw;
 }

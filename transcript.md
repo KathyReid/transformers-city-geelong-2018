@@ -17,7 +17,8 @@ And I'm KATHY REID - I'm a technical specialist and was the site lead for GovHac
 
 ## The Geelong Method - maturity model
 
-Kathy
+PRESENTER: Kathy
+
 SLIDE: Capability Maturity Model
 https://kathyreid.github.io/transformers-city-geelong-2018/#/capabilitymaturity
 
@@ -29,7 +30,8 @@ We'd love to hear your questions and comments, however please do wait until the 
 
 ## Level 1 - Lack of data
 
-Matt
+PRESENTER: Matt
+
 SLIDE: Level 1 - Lack of data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level1
 
@@ -37,20 +39,21 @@ Our journey starts almost five years ago, with the recognition by the City of th
 
 The key questions the city had to tackle at this stage of maturity were things like
 
-* what data is available?
+* what data is available? - sometimes data is available - in annual reports and such - but it's not *machine readable* - it can't be readily re-used in apps, visualisations and mash-ups.
 * what can we collect?
 * what are the privacy considerations?
 * what format do we store it in.
 
+PRESENTER: Matt
 SLIDE: Digital Geelong strategy
 https://kathyreid.github.io/transformers-city-geelong-2018/#/digitalgeelong
 
 These were codified in mid-2015 into the Digital Geelong strategy, which covered a broad range of digital infrastructure topics. The strategy also covered how open data needed to address privacy considerations - ensuring that individuals weren't able to be identified using aggregate data.
 
-Kathy
+PRESENTER: Kathy
 SLIDE: Choosing data.gov.au as an open data platform
 
-One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata. They key drivers for this decision were
+One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata. The key drivers for this decision were
 
 * CKAN was open source - and more readily integrated and adapted
 * Standardisation - all the Councils collect data - we do it differently and we should do it in the same way - including sharing meta data and formats.
@@ -59,7 +62,7 @@ One of the key decisions at this stage was the adoption of the data.gov.au platf
 
 # Level 2 - Hack the data
 
-Kathy
+PRESENTER: Kathy
 SLIDE: Level 2 - Hack the data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level2
 
@@ -89,7 +92,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/transformers-city-g
 * As a regional city, it's really hard to compete with the larger event in Melbourne, that regularly draws over 200 hackers. To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
 
 
-Matt 
+PRESENTER: Matt
 SLIDE: Geelong free WiFi
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongfreewifi
 
@@ -100,7 +103,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/learning2
 
 So that was a key learning - you need a pipeline or broader innovation program that provides a mechanism for prototypes to be matured into production.
 
-Kathy
+Presenter: Kathy
 SLIDE: Geelong advertiser
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongadvertiser
 
@@ -114,8 +117,8 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/learning3
 
 # Level 3 - Track the data
 
-Matt
 
+PRESENTER: Matt
 SLIDE: Level 3 - Track the data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level3
 
@@ -131,14 +134,14 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/opendatastats
 
 You can see here that the most downloaded data set is the Wages and Salaries dataset for the City of Greater Geelong - with urban planning-based datasets like flood extent or building applications a bit further down the list. The learning here is that the community is very interested in openness from Council on its internal operations - and interested in very public measures of accountability such as this.
 
-Kathy
 
+PRESENTER: Kathy
 SLIDE: GEEmap
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geemap
 
 We're also using open data to help connect different services in the city, and a key example of this is the GEEmap platform - which interactively visualises services available to entrepreneurs in the region.
 
-Matt
+PRESENTER: Matt
 SLIDE: Clever and Creative
 https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreative
 
@@ -149,23 +152,28 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/by2047
 
 And of course, open data, and smart cities have a huge role to play here as well.
 
-Kathy
+SLIDE: Clever Creative Voting
+https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreativevoting
+
+In fact, open data was used to help set the Clever and Creative Strategy
+
+PRESENTER: Kathy
 SLIDE: UNESCO Creative City of Design
 https://kathyreid.github.io/transformers-city-geelong-2018/#/unesco
 
-In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support our recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation.
+In fact, Geelong's use of open data, and our orientation towards becoming a smart city, was used to support the City's recent application to become a UNESCO Creative City of Design - and we're *delighted* to announce that in December 2017 we were successfully awarded this designation, joining over 180 cities across the world.
 
 The mission of the UNESCO Creative Cities network is to ensure creativity and cultural industries are at the heart of urban development - aligning perfectly with Geelong's mission to be the Clever and Creative city.
 
 
 
 # Level 4 - The knack of data
-Matt
 
+PRESENTER: Matt
 SLIDE: Level 4 - The knack of data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level4
 
-Using the learnings gleaned from GovHack, the City then participated in MAVHack in 2017, where the format was conducive to development over a longer timeframe.
+Using the learnings gleaned from GovHack, the City then participated in MAVHack in 2017, where the format was conducive to development over a longer timeframe. The MAVhack format also allowed for more focussed development, using closed invitations rather than open invitations. 
 
 @TODO - Matt can you please add in something about MAVhack please? Some wording around it and why it sits at his maturity level.
 
@@ -195,7 +203,7 @@ Of course this data will be dependent on networks to carry it - like nerves carr
 
 The City itself will become itself a living being, brought to life by data.
 
-Last point - Matt to talk about future of data smart cities at cogg etc??? 
+Last point - Matt to talk about future of data smart cities at cogg etc???
 
 SLIDE: Thank you
 https://kathyreid.github.io/transformers-city-geelong-2018/#/thankyou
