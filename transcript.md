@@ -53,10 +53,7 @@ These were codified in mid-2015 into the Digital Geelong strategy, which covered
 PRESENTER: Kathy
 SLIDE: Choosing data.gov.au as an open data platform
 
-One of the key decisions at this stage was the adoption of the data.gov.au platform, based on CKAN software, versus data.vic.gov.au, based on Socrata. The key drivers for this decision were
-
-* CKAN was open source - and more readily integrated and adapted
-* Standardisation - all the Councils collect data - we do it differently and we should do it in the same way - including sharing meta data and formats.
+One of the key decisions at this stage was the adoption of the data.gov.au platform, based on open source CKAN software, versus data.vic.gov.au, based on Socrata. The key driver behind this decision was that all Councils collect data, but do it differently. By choosing the data.gov.au platform, Geelong would be standardising with agencies across *Australia*, not just across *Victoria*.
 
 
 
@@ -89,8 +86,11 @@ We also learned some lessons from GovHack.
 SLIDE: Hard to compete as a regional city
 https://kathyreid.github.io/transformers-city-geelong-2018/#/transformers-city-geelong-2018/#/learning1
 
-* As a regional city, it's really hard to compete with the larger event in Melbourne, that regularly draws over 200 hackers. To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
+* As a regional city, it's hard to compete with the larger event in Melbourne. The capital city events draw people away from regional events as they're able to provide higher volumes of data, and a lot more prize money.
 
+To put on GovHack, it takes about 80 hours of volunteer labour, and about $12-$13k a year to cover things like bounties, catering, and so on. When you're only able to draw between 20-40 hackers for an event, it becomes a lot of effort - and money - for only a handful of projects.
+
+So the investment versus outcome ratio isn't really sustainable.
 
 PRESENTER: Matt
 SLIDE: Geelong free WiFi
@@ -98,16 +98,20 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongfreewifi
 
 * As a weekend hackathon, the outputs from GovHack are prototypes - very robust prototypes - but not able to be deployed immediately. They need a lot of work and iteration to be production ready. In one case, we took a project from GovHack 2015 - Geelong Free WiFi, by Daniel McCarthy and Paz, and then matured it into a production ready product.
 
+This platform is still in use today.
+
 SLIDE: Mature products into prototypes
 https://kathyreid.github.io/transformers-city-geelong-2018/#/learning2
 
 So that was a key learning - you need a pipeline or broader innovation program that provides a mechanism for prototypes to be matured into production.
 
-Presenter: Kathy
+PRESENTER: Kathy
 SLIDE: Geelong advertiser
 https://kathyreid.github.io/transformers-city-geelong-2018/#/geelongadvertiser
 
 * Another key issue that we faced with the growing release of open data was the way it could be used both positively - in the case of GovHack - or to paint the city in a more negative light. Organisations who want to release open data need to have a certain risk appetite - as City of Greater Geelong did - you need to be prepared to say "yes, some people will take this and use it negatively, but the trade-off is much broader and greater positive outcomes".
+
+The parking meter data sets *points to slide* are still publicly availabile from the Geelong Open Data portal.
 
 SLIDE: You need a risk appetite
 https://kathyreid.github.io/transformers-city-geelong-2018/#/learning3
@@ -155,7 +159,7 @@ And of course, open data, and smart cities have a huge role to play here as well
 SLIDE: Clever Creative Voting
 https://kathyreid.github.io/transformers-city-geelong-2018/#/clevercreativevoting
 
-In fact, open data was used to help set the Clever and Creative Strategy
+In fact, open data was used to help set the Clever and Creative Strategy, and was used to help people vote on their vision for the City.
 
 PRESENTER: Kathy
 SLIDE: UNESCO Creative City of Design
@@ -173,7 +177,13 @@ PRESENTER: Matt
 SLIDE: Level 4 - The knack of data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/level4
 
-Using the learnings gleaned from GovHack, the City then participated in MAVHack in 2017, where the format was conducive to development over a longer timeframe. The MAVhack format also allowed for more focussed development, using closed invitations rather than open invitations. 
+Using the learnings gleaned from GovHack, the City then participated in MAVHack in 2017, where the format was conducive to development over a longer timeframe.
+
+SLIDE: MAVhack
+
+The MAVhack format also allowed for more focussed development, using closed invitations rather than open invitations.
+
+This year, Geelong is participating again in MAVhack, with a focus on road maintenance and waste management. 
 
 @TODO - Matt can you please add in something about MAVhack please? Some wording around it and why it sits at his maturity level.
 
@@ -199,9 +209,8 @@ Just as our city now has a Green Spine, connecting east and west through a biodi
 SLIDE: Brought to life by data
 https://kathyreid.github.io/transformers-city-geelong-2018/#/cityasdata
 
-Of course this data will be dependent on networks to carry it - like nerves carrying messages between buildings, between vehicles, between infrastructure and between people.
 
-The City itself will become itself a living being, brought to life by data.
+The City itself will become itself a living being, brought to life by data, and data  will be used to help create a *thriving community*.
 
 Last point - Matt to talk about future of data smart cities at cogg etc???
 
