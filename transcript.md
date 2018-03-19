@@ -212,7 +212,7 @@ https://kathyreid.github.io/transformers-city-geelong-2018/#/cityasdata
 
 The City itself will become itself a living being, brought to life by data, and data  will be used to help create a *thriving community*.
 
-Last point - Matt to talk about future of data smart cities at cogg etc???
+Last point - Matt - as this our last slide shows our connected creative library we look towards our clever creative furture our smart cities aspirations, these are all about geelong utilising technology to realisise our vision of creating a thriving community
 
 SLIDE: Thank you
 https://kathyreid.github.io/transformers-city-geelong-2018/#/thankyou
